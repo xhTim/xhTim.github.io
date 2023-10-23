@@ -1,13 +1,18 @@
 ---
 title: "An example journal article"
 authors:
+- Senjie Zhu
 - admin
-- Robert Ford
-date: "2015-09-01T00:00:00Z"
+- Lei Xia
+- Aiqiang Guo
+- Yutie Liang
+- Yifei Zhang
+- Yuxiang Zhao
+date: "2023-10-18T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2023-10-18T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -62,12 +67,12 @@ projects: []
 slides: example
 ---
 
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
+#{{% alert note %}}
+#Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+#{{% /alert %}}
 
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
+#{{% alert note %}}
+#Click the *Slides* button above to demo Academic's Markdown slides feature.
+#{{% /alert %}}
 
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+#Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).

@@ -1,5 +1,6 @@
 ---
-title: Recent & Upcoming Talks
+title: Talks & Posters
+#title: Recent & Upcoming Talks
 
 # View.
 #   1 = List
