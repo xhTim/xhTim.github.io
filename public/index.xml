@@ -5,7 +5,7 @@
     <link>https://xhtim.github.io/</link>
       <atom:link href="https://xhtim.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Xiao Huang&#39;s Homepage</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 04 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 23 Oct 2023 11:12:49 +0800</lastBuildDate>
     <image>
       <url>https://xhtim.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Xiao Huang&#39;s Homepage</title>
@@ -55,6 +55,35 @@
     </item>
     
     <item>
+      <title>My Article Name</title>
+      <link>https://xhtim.github.io/post/my-article-name/</link>
+      <pubDate>Mon, 23 Oct 2023 11:12:49 +0800</pubDate>
+      <guid>https://xhtim.github.io/post/my-article-name/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An example journal article</title>
+      <link>https://xhtim.github.io/publication/journal-article/</link>
+      <pubDate>Wed, 18 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://xhtim.github.io/publication/journal-article/</guid>
+      <description>&lt;p&gt;#&lt;div class=&#34;alert alert-note&#34;&gt;&lt;/p&gt;
+  &lt;div&gt;
+    &lt;p&gt;#Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/p&gt;
+&lt;h1 id=&#34;heading&#34;&gt;&lt;/h1&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;#&lt;div class=&#34;alert alert-note&#34;&gt;&lt;/p&gt;
+  &lt;div&gt;
+    &lt;p&gt;#Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.&lt;/p&gt;
+&lt;h1 id=&#34;heading&#34;&gt;&lt;/h1&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;#Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>My Hometown</title>
       <link>https://xhtim.github.io/post/essay/</link>
       <pubDate>Sun, 04 Jun 2023 00:00:00 +0000</pubDate>
@@ -97,63 +126,11 @@ nuclear matter effect and hadronization mechanism, especially in the region domi
     </item>
     
     <item>
-      <title>An example preprint / working paper</title>
-      <link>https://xhtim.github.io/publication/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://xhtim.github.io/publication/preprint/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>An example journal article</title>
-      <link>https://xhtim.github.io/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://xhtim.github.io/publication/journal-article/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>An example conference paper</title>
-      <link>https://xhtim.github.io/publication/conference-paper/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://xhtim.github.io/publication/conference-paper/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title></title>
       <link>https://xhtim.github.io/authors/admin/_gpa/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://xhtim.github.io/authors/admin/_gpa/</guid>
-      <description>&lt;p&gt;3.99/4.30 (Ranking 6/144)&lt;/p&gt;
+      <description>&lt;p&gt;3.95/4.30 (Ranking 12/142)&lt;/p&gt;
 </description>
     </item>
     
